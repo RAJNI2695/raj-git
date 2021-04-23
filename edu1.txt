@@ -1,2 +1,2 @@
-first file -modified 1
+first file -modified 1 -BOB
 
